@@ -1,6 +1,6 @@
-![Sendbird banner image](http://ww1.prweb.com/prfiles/2021/09/14/18371217/Sendbird_Logo_RGB_lg.png)
-
 # [Sendbird Typescript Platform SDK](https://sendbird.com/docs/chat/v3/platform-api/getting-started/prepare-to-use-api)
+
+Disclamer: this is unofficial version of [official SDK](https://github.com/sendbird/sendbird-platform-sdk-typescript) which is not updated for more than 2 years by now.
 
 [![link to docs](https://img.shields.io/badge/SDK-docs-green)](/docs)
 This is a Node.js package written in Typescript  that makes talking to the [Sendbird Platform API](https://sendbird.com/docs/chat/v3/platform-api/getting-started/prepare-to-use-api) easier.
@@ -40,7 +40,7 @@ userAPI.createUser(API_TOKEN, userData).then((user) => {
 
 # ⚠️ Warnings
 
- 1. This package is not currently in npm. Please see  the Local development section for installation instructions.
+ 1. This package is not official! I made deployments and support by my own so beware of any errors or issues that may arise.
  2. This library is intended for server to server requests. **Do not use in a browser environment**. This SDK uses the Master API Token, which should never be exposed to the outside world like in a webpage or app.
 
 # ⚒️ Prerequisite

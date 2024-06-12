@@ -1,11 +1,11 @@
 {
-  "name": "sendbird-platform-sdk-typescript",
-  "version": "0.0.16",
+  "name": "@jfkz/sendbird-platform-sdk-typescript",
+  "version": "1.0.1",
   "description": "OpenAPI client for sendbird-platform-sdk-typescript",
   "author": "OpenAPI-Generator Contributors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sendbird/sendbird-platform-sdk-typescript.git"
+    "url": "https://github.com/jfkz/sendbird-platform-sdk-typescript.git"
   },
   "keywords": [
     "fetch",
